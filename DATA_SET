@@ -1,0 +1,23 @@
+Dataset:-
+
+For this project, we used the Fake and Real News Dataset from Kaggle.
+
+How to Access the Dataset:
+
+Visit the Dataset Page: Go to Fake and Real News Dataset on Kaggle [https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset].
+
+#Download the Dataset:-
+
+If you don’t have a Kaggle account, you will need to create one.
+
+Once logged in, click the "Download" button on the dataset page to get the data.
+
+Extract the Files: The downloaded file will be in a zip format. Extract it to get the CSV files containing the news articles.
+
+#Using the Dataset:-
+
+Place the Dataset: Move the extracted CSV files into the data directory of this project.
+
+Preprocess the Data: Run the preprocessing script provided in the repository to clean and prepare the data for training.
+
+Train and Test: Use the provided scripts to train the machine learning models on the dataset and test their performance.
