@@ -12,7 +12,7 @@ Logistic Regression: A simple yet effective linear model for binary classificati
 
 To get started with this project, follow these steps:
 
-Clone the repository: bash Copy code git clone (link) cd fake-news-detection
+Clone the repository: bash Copy code git clone (https://github.com/your-username/fake-news-detection.git) cd fake-news-detection
 
 #Install the required dependencies: bash Copy code pip install -r requirements.txt
 
